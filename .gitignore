@@ -1,0 +1,16 @@
+build/
+output_files/
+xcelium.d/
+INCA_libs/
+*.shm/
+*.vcd
+*.fst
+*.log
+*.key
+*.history
+genus.cmd*
+genus.log*
+core
+core.*
+.env
+.DS_Store
